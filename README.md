@@ -22,9 +22,23 @@ This project was built as a Front End Mentor challenge to gain hands-on experien
 
 ## 💻 How to Use
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Click the button to generate random advice
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PureLmnz/adviceGenerator.git
+   cd adviceGenerator
+   ```
+
+2. Open `index.html` in your browser or use a local server:
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Or using Node.js
+   npx serve
+   ```
+
+3. Click the button to generate random advice!
+
 
 ## 📚 What I Learned
 
