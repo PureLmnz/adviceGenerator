@@ -28,16 +28,18 @@ This project was built as a Front End Mentor challenge to gain hands-on experien
    cd adviceGenerator
    ```
 
-2. Open `index.html` in your browser or use a local server:
+2. Start a local server:
    ```bash
    # Using Python
-   python -m http.server 8000
-   
-   # Or using Node.js
-   npx serve
-   ```
+   python -m http.server 8000   
+     ```
 
-3. Click the button to generate random advice!
+3. Open your browser and navigate to:
+   ```
+   http://localhost:8000
+   ```
+   
+4. Click the button to generate random advice!
 
 
 ## 📚 What I Learned
