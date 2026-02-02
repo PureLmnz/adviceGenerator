@@ -42,6 +42,7 @@ p {
     border-radius: 1rem;
     position: relative;
     max-width: 540px;
+    width: 100%;
 }
 
 .container h1 {
@@ -50,19 +51,23 @@ p {
     letter-spacing: 0.3rem;
     font-size: 0.75rem;
     margin-bottom: 1.5rem;
+    font-weight: 800;
 }
 
 .container p {
     margin-bottom: 2rem;
     color: var(--light-cyan);
+    font-weight: 800;
 }
 
-.divider {
+.container picture {
+    display: block;
+    margin: 2rem 0 0 0;
+}
+
+.container picture img {
     width: 100%;
-    margin: 2rem 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: auto;
 }
 
 .container button {
@@ -82,6 +87,11 @@ p {
     justify-content: center;
 }
 
+.container button img {
+    width: 24px;
+    height: 24px;
+}
+
 .container button:hover {
     box-shadow: 0 0 40px var(--neon-green);
 }
@@ -89,13 +99,14 @@ p {
 .attribution {
     font-size: 11px;
     text-align: center;
-    margin-top: 4rem;
+    margin-top: 5rem;
     color: var(--light-cyan);
 }
 
 .attribution a {
     color: hsl(228, 65%, 64%);
     transition: color 0.3s ease-in-out;
+    text-decoration: none;
 }
 
 .attribution a:hover {
@@ -105,5 +116,9 @@ p {
 @media (min-width: 500px) {
     .container {
         max-width: 540px;
+    }
+    
+    p {
+        font-size: 28px;
     }
 }
